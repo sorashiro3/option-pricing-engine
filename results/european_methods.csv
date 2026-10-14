@@ -1,0 +1,4 @@
+method,price,std_error,error_over_se,time_ms,variance_reduction,efficiency_gain
+Plain,10.45139452,0.00736124,0.1102,60.670,1.0000,1.0000
+Antithetic,10.45644172,0.00519923,1.1267,42.420,2.0046,2.8670
+Control variate,10.45656879,0.00280636,2.1327,68.773,6.8804,6.0698

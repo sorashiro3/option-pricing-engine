@@ -1,0 +1,5 @@
+greek,estimator,mc,std_error,black_scholes
+Price,discounted payoff,10.45139452,0.00736124,10.45058357
+Delta,pathwise,0.63649946,0.00028824,0.63683065
+Gamma,likelihood ratio / pathwise,0.01877114,0.00001892,0.01876202
+Vega,pathwise,37.54228617,0.03784834,37.52403469

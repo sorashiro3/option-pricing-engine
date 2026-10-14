@@ -1,0 +1,4 @@
+build/
+build-*/
+*.obj
+*.exe
